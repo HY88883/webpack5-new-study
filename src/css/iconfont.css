@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('../fonts/iconfont.ttf?t=1655622041260') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-04bank:before {
+  content: "\e606";
+}
+
+.icon-05tag:before {
+  content: "\e607";
+}
+
